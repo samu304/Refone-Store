@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023416732192",
+    "project_id": "xphonestore-daf71",
+    "storage_bucket": "xphonestore-daf71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023416732192:android:57a4b5553703bc474b4a45",
+        "android_client_info": {
+          "package_name": "com.example.x_phone_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023416732192-6a8cu7l5fhso6fmssrq6lgmcq954e59b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHt2lt1a0LUmShB0u2Uu_nc0xF_dB7dWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023416732192-6a8cu7l5fhso6fmssrq6lgmcq954e59b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

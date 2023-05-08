@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/colorAccent" />
+    <corners android:radius="8dp" />
+    <clip>
+        <inset>
+            <path
+                android:fillColor="@android:color/white"
+                android:pathData="M 0 0 L 100 0 L 100 100 L 0 100 Z M 10 10 L 90 10 L 50 50 Z" />
+        </inset>
+    </clip>
+</shape>
