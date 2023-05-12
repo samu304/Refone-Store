@@ -23,12 +23,13 @@
             android:src="@drawable/ic_bg2" />
 
         <ImageView
-            android:layout_width="@dimen/auth_logo_width_size"
-            android:layout_height="100dp"
-            android:layout_gravity="center"
-            android:contentDescription="@string/app_name"
-            android:scaleType="fitCenter"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:contentDescription="Image"
+            android:scaleType="fitXY"
             android:src="@drawable/ic_b" />
+
     </FrameLayout>
 
     <com.example.x_phone_store.utils.RSYTextViewBold
